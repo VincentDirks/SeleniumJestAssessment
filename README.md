@@ -27,10 +27,11 @@ I performed the following steps, generally updating this README.md, and submitti
 1. Updated Node.js to LTS v20.9.0 from https://nodejs.org/en
 1. Initialised a new node project `npm init -y`
 1. Setup Jest `npm install --save-dev jest`
-1. Create sum function, and a basic Jest test for it. (Using ES6 module syntax)
-1. Install Selenium and Chrome Driver
+1. Created sum function, and a basic Jest test for it. (Using ES6 module syntax)
+1. Installed Selenium and Chrome Driver
 ```
 npm install selenium-webdriver
 npm install chromedriver
 ```
-6. 
+6. Created a simple first selenium script based on https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/javascript/test/getting_started/firstScript.spec.js Making modifications for ES6 modules and using jest `before*` and `after*` hooks
+1.
