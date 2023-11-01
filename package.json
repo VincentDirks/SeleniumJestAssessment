@@ -15,6 +15,12 @@
   "jest": {
     "verbose": true,
     "transform": {},
-    "testMatch": ["**/?(*.)test.mjs"]
+    "testMatch": [
+      "**/?(*.)test.mjs"
+    ]
+  },
+  "dependencies": {
+    "chromedriver": "^119.0.0",
+    "selenium-webdriver": "^4.15.0"
   }
 }
