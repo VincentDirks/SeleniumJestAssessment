@@ -42,3 +42,4 @@ npm install chromedriver
 ```
 6. Created a simple first selenium script based on https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/javascript/test/getting_started/firstScript.spec.js Making modifications for ES6 modules and using jest `before*` and `after*` hooks
 1. Created a test for loading the home page at https://magento.softwaretestingboard.com/ 
+1. Created a test for clicking the first promoted product (New Luma Yoga Collection)
